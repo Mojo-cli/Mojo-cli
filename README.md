@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mojo-cli" alt="mojo-cli" /></a> </p>
 
-- 🔭 I’m currently working on **Guess the Letter Game**https://github.com/Mojo-cli/Guess-The-Letter.git
+- 🔭 I’m currently working on **Guess the Letter Game** => https://github.com/Mojo-cli/Guess-The-Letter.git
 
 - 🌱 I’m currently learning **React Native, Java**
 
